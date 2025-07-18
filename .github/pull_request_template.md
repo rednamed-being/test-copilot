@@ -5,4 +5,3 @@
 <!-- なるべく優しい言葉遣いでお願いします。 -->
 <!-- for GitHub Copilot review  rule-->
 <!-- I want to review in Japanese. -->
-
